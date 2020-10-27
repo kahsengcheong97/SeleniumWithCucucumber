@@ -145,7 +145,7 @@ public class Main {
                 assertEquals(true, consoleMessageFromDevTools.getText().equals(message)));
 
     }
-
+ 
     /**
      * Selenium Misc features
      * @param chromeDriver
